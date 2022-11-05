@@ -1,9 +1,9 @@
 - title: Email
-  url: mailto://vszhub@gmail.com
+  url: gaofeigis66@gmail.com
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/vszhub
-  icon: fab fa-twitter
+- title: Google
+  url: https://scholar.google.de/citations?user=oGQazaoAAAAJ&hl=en
+  icon: fa fa-google
 - title: GitHub
-  url: https://github.com/vszhub/not-pure-poole
+  url: https://github.com/yumpai
   icon: fab fa-github
