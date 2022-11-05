@@ -1,8 +1,8 @@
 ---
-layout: archive-publications
+#layout: archive-publications
 permalink: /publications/
 title: Publications
-type: publications
+#type: publications
 ---
 
 <h3>JAournal Papers</h3>
