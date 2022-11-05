@@ -5,10 +5,7 @@ title: Publications
 type: publications
 ---
 
-
-
-
-<h3>Journal Papers!!!!!</h3>
+<h3>JAournal Papers</h3>
 
 
 **(1)**  **Gao, F.**, Du, Z., Martin, W., Zhao, Y. (2022) [***An improved optimization model for crowd evacuation considering individual exit choice preference***. Transactions in GIS, 04 September 2022.](https://doi.org/10.1111/tgis.12984)
