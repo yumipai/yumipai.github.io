@@ -1,7 +1,13 @@
 ---
-title: Publications
+layout: archive-taxonomies
 permalink: /publications/
+title: Publications
+type: publications
 ---
+
+
+
+
 <h3>Journal Papers</h3>
 
 
