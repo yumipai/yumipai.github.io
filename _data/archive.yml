@@ -7,3 +7,18 @@
 - type: tags
   title: Tags
   url: /tags/
+- type: home
+  title: Home
+  url: /home/
+- type: about
+  title: About Me
+  url: /about/
+- type: career
+  title: Career
+  url: /career/
+- type: publications
+  title: Publications
+  url: /publications/
+- type: contact
+  title: Contact
+  url: /contact/
