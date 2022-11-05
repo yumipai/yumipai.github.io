@@ -3,7 +3,7 @@
   icon: fas fa-envelope
 - title: Google
   url: https://scholar.google.de/citations?user=oGQazaoAAAAJ&hl=en
-  icon: fa fa-google
+  icon: fas fa-google-plus
 - title: GitHub
   url: https://github.com/yumpai
   icon: fab fa-github
